@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ubuntu&pause=1000&color=1C9F52&vCenter=true&width=435&lines=Nice+to+meet+you%2C+it's+David+Guerrero!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ubuntu&pause=1000&color=1C9F52&width=435&lines=Nice+to+meet+you%2C+it's+David+Guerrero!;Computer+Engineering+%26+Cybersecurity+Student" alt="Typing SVG" /></a>
 
 <br clear="both">
 
@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">}</p>
+<p align="left"></p>
 
 ###
 
