@@ -25,6 +25,10 @@
 <div align="left">
 </div>
 
+<h2 align="left">Studying</h2>
+
+[![My Skills](https://skillicons.dev/icons?i=dotnet,cs,ruby)](https://skillicons.dev)
+
 ###
 <h2 align="left">Hiring? Contact me!</h2>
 <div align="left">
