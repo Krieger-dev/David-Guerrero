@@ -1,15 +1,5 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ubuntu&pause=1000&color=1C9F52&width=435&lines=Nice+to+meet+you%2C+it's+David+Guerrero!;Computer+Engineering+%26+Cybersecurity+Student" alt="Typing SVG" /></a>
 
-<br clear="both">
-
-<p align="right"></p>
-
-###
-
-<p align="left"></p>
-
-###
-
 <h2 align="left">About me</h2>
 
 ###
@@ -37,16 +27,16 @@
   </a>
   <a href="david.guerrero0204@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+
+###
+
   </a>
+  <a href="https://drive.google.com/file/d/1Z7FToSg3AVhN_n52ayIUx-nY-fYCV0Fg/view?usp=sharing" rel="nofollow">Download my resume</a>
 </div>
 
 ![snake gif](https://github.com/Krieger-dev/David-Guerrero/blob/output/github-snake-dark.svg)
 
 
-###
-
 <div align="center">
-  <img src="https://profile-counter.glitch.me/krieger-dev/count.svg?"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=krieger-dev.krieger-dev&left_color=darkgreen&right_color=darkgreen&left_text=Profile%20Views"  />
 </div>
-
-###
