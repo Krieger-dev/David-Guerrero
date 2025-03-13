@@ -20,13 +20,13 @@
 
 <h2 align="left">Main Skills</h2>
 
-###
+[![My Skills](https://skillicons.dev/icons?i=java,js,py,postman,git,github,azure,notion)](https://skillicons.dev)
 
 <div align="left">
 </div>
 
 ###
-
+<h2 align="left">Hiring? Contact me!</h2>
 <div align="left">
   <a href="https://www.linkedin.com/in/david-guerrero-alvarez/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
